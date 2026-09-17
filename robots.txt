@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gazetheeupon.github.io/appliance-cost-calculator/sitemap.xml
